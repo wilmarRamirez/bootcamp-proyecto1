@@ -90,12 +90,7 @@ section{
 .starbg p{
     font-size: 0.7rem;
 }
-.person{
-    width: 5vw;
-    position: absolute;
-    right: 28.5vw;
-    bottom: 16.5vh;
-}
+
 .points div{
     width: 0.3vw;
     height: 1vh;
@@ -111,18 +106,16 @@ section{
 footer img:hover{
     background-color: #FA7436;
 }
-.mensajeCorreo{
-    position: absolute;
-    top: 52vh;
+.color12{
+    height: 150vh;
 }
 .footer{
-    margin-top: 13vh;
     padding-top: 13vh;
 }
 .btn-Subscribe{
     position: absolute;
-    bottom: 2.8vh;
-    right: 13vw;
+    bottom: 6.5vh;
+    right: 13.2vw;
 }
 .btn-Subscribe:hover{
     background-color: #fd7d148c;
@@ -132,11 +125,11 @@ footer img:hover{
 }
 .mensajeCorreo .email{
     width: 4.2vw;
-    height: 4.8vh;
+    height: 10.9478vh;
     border-radius: 25%;
     background-color: white;
     position: absolute;
-    bottom: 1.99vh;
+    bottom: 4.6vh;
     left: 9.5vw;
 }
 .mensajeCorreo input {
@@ -165,8 +158,4 @@ footer img:hover{
     position: absolute;
     right: 1vw;
     top: 1vh;
-}
-/*.text-end{
-    
-    text-align: right;
 }
